@@ -1,0 +1,16 @@
+{
+  "name": "Qinghang/328/rain",
+  "authors": [
+    {
+      "name": "Tina Ostrander",
+      "email": "tostrander@greenriver.edu"
+    },
+    {
+      "name": "Joe Shmo",
+      "email": "jshmo@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
